@@ -92,15 +92,21 @@ jupyter notebook notebooks/analysis.ipynb
 ## 🎨 **Visualisasi Hasil**
 ### **1. Peta Folium**
 Peta interaktif dengan lokasi dan jalur pengiriman:
-![Folium Map](https://via.placeholder.com/800x400?text=Preview+Folium+Map)
+![image](https://github.com/user-attachments/assets/0f5637cb-33e1-4516-8aa5-c5e039c89375)
 
 ### **2. Rute dengan Jarak**
 Rute pengiriman dengan jarak antar lokasi:
-![Route Plot](https://via.placeholder.com/800x400?text=Preview+Route+Plot)
+![image](https://github.com/user-attachments/assets/1a1071ee-fc65-4141-8754-e01f3fc22560)
+
+![image](https://github.com/user-attachments/assets/a5244ae1-e8fb-4339-a607-9f3cce736738)
+
 
 ### **3. Perbandingan Waktu Eksekusi**
 Grafik perbandingan waktu eksekusi algoritma:
-![Execution Time Comparison](https://via.placeholder.com/800x400?text=Preview+Execution+Time+Bar+Chart)
+![image](https://github.com/user-attachments/assets/5084de05-495c-4a77-a8e8-0e40dbd35a39)
+
+![image](https://github.com/user-attachments/assets/b1cf8c46-eedb-41be-8dfd-d448e573fb7e)
+
 
 ---
 
